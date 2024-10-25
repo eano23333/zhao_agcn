@@ -2,7 +2,7 @@
 ```shell
 git clone https://github.com/eano23333/zhao_agcn.git
 cd zhao_agcn
-conda env create -f environment.yaml
+conda env create -f environment.yaml 
 conda activate zhao_agcn
 pip install -e .
 ```
