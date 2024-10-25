@@ -1,9 +1,9 @@
  ## Installation
 ```shell
 git clone https://github.com/eano23333/zhao_agcn.git
-cd zhao_agc
+cd zhao_agcn
 conda env create -environment.yaml
-conda activate zhao_gcn
+conda activate zhao_agcn
 pip install -e .
 ```
 
